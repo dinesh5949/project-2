@@ -1,0 +1,229 @@
+This is  Dinesh from Hyderabad
+• I have 2 years  of experience in us it recuriting
+• I worked as a Technical recuriter in Qubeway it services., Hyderabad,India from Mar 2019 to  2020.
+• hands on experience in  recruiting, and  Managed to do end-to-end recruitment process from screening, selecting and submitting candidates to job
+• i Worked with Direct clients, Implementing partners and  
+ for both Fulltime and contract positions.  with tax teams like W2 and C2C.                                                                    |       EST       CST,      MST,     PST
+• Worked with different types of visa holders like H1b’s, EADs, GCs, and US Citizens.                                                  |       10am,   9am,    8am,     7am,
+• Worked with the Clients like implementation partner Infosys, TCS, Tech mahendra,                                                                                          
+t-mobile, verison,Wipro,T-mobile,AT&T,pepsico
+expedia, pactera technologies, microsoft, global bank, Master card,toyota,lamresearch                           50 states in usa
+apple, anthem blue,hcl,sanjose water
+• Worked with the  Job boards like Dice, Monster, CorpCorp(Tech Fetch), Career Builder and Linkedin.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ C2C - If the Taxes through one corporation to another corporation or If the Taxes varies from one corporation to another corporation, we can call itas a C2C. Generally Employer Company will pay the taxes that means, the company who is holding the visa of consultant will pay the taxes. 
+(It is the Parole run between two incorporations) - C2C
+
+In this tax term the consultant himself pay his parole taxes. - 1099 No H1s,opt
+                                                                                                                                                                                   (TAX TERMS)
+1099: If the total taxes paid by the Consultant himself we call it as a 1099
+
+W2: If the total taxes paid by the company itself we call it as a W2 ( no h1 if they ready to transfer to our pay roll)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ (circullar partical training)
+(optional practical training)
+
+CPT must be completed before graduation as candidates are allowed to do part-time or full-time job
+
+OPT/CPT: 
+Is given to the  student who (before cpt) completed their F1 status and ready  to work
+. Any F1 students can apply for OPT and get a legal status to work in US. They can only work with company that sponsored their employment. OPT are authorized to work for any employer
+
+      
+
+                  OPT 3 types
+Post-Completion OPT: Authorized for 12 months after graduation (most common)
+STEM Extension OPT: 24 month OPT extension for students in STEM programs.
+Pre-Completion OPT: Authorized before graduation, only if CPT is not an option.
+
+H1B visa - its is work permit visa , foreign national to work in the United States for a temporary period. It is available for offers of employment that are in a specialty occupation max 6years
+
+L1: L1 Visa is valid for one year and that person should work for a particular company and the visa can extend for one more year also
+
+ GC - Are permanent resident (authorized to work for any employer)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5 clousresand 
+
+worked for software requirements like
+
+java developer-  Node.js, Angular, React and Bootstrap (front end) ,RESTful APIs, java script,html,css,JavaScript, jQuery, JSON,PHP, Ruby, Python, Java, and .Net to build an application, and tools like MySQL, Oracle, and SQL Server,devops,aws 
+
+(He work on who works on both client-side and server-side software This type of software developer works on the Full Stack of an application meaning Front End Technology, Back End Development Languages, Database, Server, API, and version Controlling Systems. Hence, the name "Full Stack" Developer.)
+
+.net developer : - ASP.Net, mvc ,angular js, frame works, C#
+
+devops developer- git, jerkins,docker, kubernets,ansible , Azure, AWS, experience in testing, deploying, operating, and/or supporting medium to large scale apps or services.
+
+python developer- Django, MySQL, JavaScript, CIC++ and GoLang, ODBC, pyODBC, pyETL, JSON, XML, Requests, profiler,html,css,bootstrap
+
+ETL developer (extract,transfer load) - sql,ssis, PL/SQL,nosql,Oracle,Teradata
+
+(who designs data storage systems the loading of data into the systems) data warehouse
+
+angular developer- Java, J2EE,Angular 6+, Node,Oracle, Mongo databases, Angular 4/6, HTML5, CSS3, Bootstrap, JQuery,JUnit, CodeCloud, Jenkins,(CI/CD, CodeCloud, Sonar, Jenkins, SAST, and automated deployment)   
+ (Angular is an open-source, client-side framework based on TypeScript and designed for building web applications.)
+
+Andriod developer - Android,Android development,Angular,iOS,Java,JavaScript,Kotlin,Swift,Web Development,git
+
+Business analyst - knowledge on roles and responsibilites, agile model and water fall model ,knowledge on SDLC , analysis the requirement  Banking, Telecom, 
+Financial, Insurance, Manufacturing, Pharma /Healthcare
+
+Data Science - Data science is the study of data. It involves developing methods of recording, storing, and analyzing data to effectively extract useful information. The goal of data science is to gain insights and knowledge from any type of data — both structured and unstructured
+
+
+Sap Modules
+
+fumctional modules
+
+SAP PP- Production Planning
+
+SAP PM- Plant Maintenance
+
+SAP MM- Material Management
+
+SAP QM- Quality Management
+
+SAP HR- Human Resource
+
+SAP SD – Sales & Distribution
+
+SAP FICO – Finance & Controlling
+
+SAP PS – Project system
+
+SAP TR – Treasury
+
+SAP FSCM - Financial supply chain management
+
+
+
+Technical modules:-
+
+SAP ABAP - Advanced Business Application Programming
+
+SAP BASIS - act as an interface with Database, Operating system, communication protocols
+
+SAP HANA - where Hana stands for High-performance Analytic Appliance
+
+SAP BI/BW - Business (Data) Warehouse
+
+SAP NETWEAVER
+
+
+
+
+
+
+
+• After getting requirement from my  manager i will start
+analysing the requirement clearly.
+• If i will get any doubts regarding the requirement, i will directly
+ask my  manager to clear my doubts.
+• After getting clear idea about the requirement, i will start working on
+the requirement.
+
+If it is W2 requirement  :-  i will prepare the boolean search string
+according to the requirement and also according the skill set, then i
+will copy search string  and will paste it on the job
+boards like Monster and Careerbuilder.
+• If Iam getting good profiles, then  pick up the
+best profile and i will try to reach that consultant, and i will
+communicate with that particular consultant through phone by
+explaining about the Job Description clearly,
+• I will discuss about the JD with consultant. If he/she is comfortable
+with the requirement and i will send a mail to him to collect
+required details to do submission,
+. i will discuss the rate part with the consultant
+• After getting complete details, then i will forward that profile to Manager.
+
+
+ If it is a C2C Requirement :-  I will send mails to my own 
+of employers database, if i won't get any profile from the
+database, then i will try to find the profile using  Linkedin by posting Job description  in final case i will prefer portals to find out the best profiles,
+
+ If Iam getting good profiles, then  pick up the
+best profile and i will try to reach that  consultant and his employer , and i will
+communicate with that particular consultant through phone then i will  discuss about the JD with consultant and his employeer. If he/she is comfortable
+with the requirement then i will discuss the rate part with consultant's employeer and i will send the rate conformation to the employeer
+ and i will send a mail to consultant  to collect
+required details to do submission,
+• After getting complete details, then i will forward that profile to Manager.
+
+
+
+dallas , tx
+boston , maschussets
+tampa florida
+redmond wA.
+seattle WA
+atlanta GA
+cincinnati ohio
+chicago illouns
+plano texas
+San Francisco, CA
+Indianapolis, IN
+San Jose, CA
+Houston,TX
+Los angeles, CA
+Sunnyvale, CA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello iam speaking to [ ]
+Hello {} , this is dinesh with marut    how are you 
+
+
+
+
+
+
+
+
+Net AND (VS OR “Visual Studio”) AND (VB OR “Visual Basic” OR VB.net) AND (ASP OR ASP.net) AND (C# OR C#.net ) AND “SQL Server”
+
+
+
+
+("product manager" OR "project manager") AND ("Jira") AND ("Agile" AND "Scrum")
+
+
+
+("san") AND ("Vmware") AND ("Citrix") AND("XenApp")AND("Vdi") AND("Networking") AND ("Virtualization") AND ("Perl" AND "PowerShell" AND "Python")
+
+("scrum master") AND ("CSM") AND ("Share point") AND ("Agile" AND "Scrum") AND ("Project Management")
+
+(“ba” OR “business analyst” OR “project manager” OR “project analyst”) AND “etl” AND “business objects” AND informatica AND “sql” AND (“data warehouse” OR financial OR analysis OR analytics OR mappings OR “product roadmap”)
+(“Business Analysis” or “Business Analyst” or “System Analysis” or “System Analyst” or “Business System Analyst”)
+
+
+
+
+
+
+Expedia,anthem blue,verizon,toyota,global bank,master card,ford,united healthgroup,facebook
+

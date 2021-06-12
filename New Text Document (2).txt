@@ -1,0 +1,214 @@
+.Net Developer
+.Net and (VS or “Visual Studio”) and (VB or “Visual Basic” or VB.net) and (ASP or ASP.net) and (C# or C#.net )
+and “SQL Server”
+
+Android Developer
+Android and SDK and Java and SQLite and (SVN or subversion)
+
+Automation Tester
+(“qa” or “quality assurance” or “quality analyst” or “automation tester”) and “sql” and agile and scrum and rest
+and soap and “java” and (cucumber or “jet brains” or gherkin or “cmm” or “cmmi” or “cast” or “cste” or “cmst”
+or certified or certification)
+
+Business Analyst with Business Objects Experience
+(“ba” or “business analyst” or “project manager” or “project analyst”) and “etl” and “business objects” and
+informatica and “sql” and (“data warehouse” or financial or analysis or analytics or mappings or “product roadmap”)
+
+Business Intelligence Analyst
+(“Business Intelligence” or “BI”) and SQL and (SSIS or SSRS or SSAS or “integration services” or “reporting
+services” or “Analysis Services”) and (“Business Analysis” or “Business Analyst” or “System Analysis” or “System
+Analyst” or “Business System Analyst”)
+
+CTO
+(cto or “chief technical officer” or “cio” or “chief information officer” or vp or “vice president” or svp or “senior
+vice president”)
+
+Database Administrator
+(“database administration” or “database administrator” or “DB Admin” or DBA) and “database design” and
+(SQL or “SQL Server”) and (SSIS or SSMS or SSRS or “Management Studio” or “Integration Services” or SSAS
+or “Analysis Services” or “Reporting Services”)
+
+Developer Evangelist
+enterprise and “java” and “javascript” and html and “php” and “rest” and (“sso” or video or integration or
+deploy or implement or prototyp or “project manager” or “project management”)
+
+Digital Product Specialist
+(sales or marketing or advertising or “product development” or “business development” or “product manager”
+or “product specialist” or “account manager” or “account executive”) and excel and (pixel or “api” or digital) and
+(tech or analy or “online media” or “ad-tech” or “data industry” or “it” or “information technology” or “ms office”)
+
+Drupal Expert / Webmaster
+(“web developer” or developer or programmer or engineer or “web master” or webmaster) and drupal and
+“google analytics” and (“seo” or websites or microsites or “landing pages” or “cms” or “crm” or “relational
+database” or “api” or “ui” or “ux” or “social media” or paradot or requirements)
+
+Email/Messaging System Administrator
+(“systems administrator” or “systems administration” or “email systems administrator”) and (“email delivery systems”
+or powermta or port25 or “message systems” or strongmail or qmail or sendmail or ironport or postfix) and (“mta”
+or “dns” or “ptr” or “mx records” or “smtp protocols” or “dkim” or “spf” or “dmarc” or “fbl” or “feedback loop”)
+
+Help Desk Support
+(helpdesk or support or technician or “help desk” or “service desk”) and (OSX or JDE or iSeries or virtual or
+virtualization or vmware) and (“AD” or “Active Directory”) and DHCP and DNS and (network or networking)
+and (switches or switching or routers or routing) and (firewalls or security)
+
+Information Security Manager
+“Information Security” and (“Project Manager” or “Project Management” or Leadership or Manager or PMP)
+and (forensic* or Security+ or CISSP or “security Standards” or “Certified Information Systems Security
+Professional” or “Advanced Persistent Threats” or “asset protection”)
+
+Java Developer
+Java and SQL and (“object oriented” or object-oriented or “OO” or “OOP” o “OOAD” or EJB or J2EE or Linux
+or Hibernate or Jidesoft or MySQL or Subversion or SVN)
+
+Linux Sys Admin / DBA
+(“dba” or “database administrator” or “database administration” or “system administrator” or “system
+administration” or “sysadmin”) and linux and (mysql or “my sql” or “my-sql”) and (“ksh” or bash or perl or
+python) and (nosql or “no sql” or “no-sql” or mongo or “disaster recovery” or “meta data analysis” or “data
+modeling” or troubleshooting or reporting or backup)
+
+Linux Systems Administrator
+(Unix or Linux) and (RedHat or “Red Hat” or Centos or Debian) and (SMTP or DHCP or DNS or LDAP or
+NFS or SMTP or HTTP or SNMP) and (“Systems Administrator” or “System Administrator” or “Systems
+Administration” or “System Administration”)
+
+Microstrategy Consultant
+(MicroStrategy or “Business Objects” or OBIEE or Cognos) and (Informatica or “Ab Initio” or SSIS or Websphere
+or “SQL Server Integration Services”) and (RDBMS or Oracle or “SQL Server” or Teradata or Netezza or DB2)
+and SQL and (BI or “business intelligence” or “data warehousing” or DW)
+
+Boolean Searches for IT
+
+Mobile Applications Architect
+(ios or iphone or ipad or android) and (SDK or SDKs) and (Java or objective-c or “objective c” or C++) and
+(optimization or “web services” or UX or user-experience or “user experience” or “Mobile Applications” or
+“Mobile Developer”)
+
+Network Administrator
+Server* and (AD or “Active Directory”) and Exchange and DNS and (Linux or Unix or CentOS or RedHat) and
+(Lan or WAN) and (VOIP or SIP) and (“power shell” or scripts or scripting) and (routers or routing or switches or
+switching or bridges or “Network Administrator”)
+
+OBIEE Architect
+(OBIEE or “Oracle Business Intelligence”) and (“DW” or “data warehouse” or “datat warehousing”) and (IBOTS
+or DAC or RPD or SME or OOTM or BIAPS or OBI or ETL or informatica)
+
+PHP Developer
+PHP and SQL and (PostgreSQL or “Pervasive SQL” or Intranet or Linux or Apache or Javascript or HTML or CSS)
+
+Project Manager
+(“project manager” or “project management” or PMP)
+
+Python Developer
+(programmer or developer or engineer) and python and (mysql or “my sql” or “my-sql”or postgresql) and
+(django or flask or pyramid or bottle) and (virtualenv or chef or puppet or sentry or raven or “project
+management” or “project manager” or implement or deploy or design)
+
+Quality Assurance Analyst
+(“Quality Assurance” or QA or SQA) and test* and software and (“test cases” or Automated or scripting) and
+agile and (ruby or java or javascript or sql or plsql or pl-sql or pl/sql or selenium)
+
+Senior Level
+(sr or snr or senior or lead or leader or mgr or manager or management or mgmt or manage or dir or director or
+supervisor or supervise or principal or master or head or ninja or expert or specialist or chief or cto or officer
+or analyst or consultant)
+
+Senior Manager, IT Programs
+(“program manager” or “project manager” or “it manager” or “information technology manager”) and (“ms
+certified” or “ms certification” or “microsoft certified” or “microsoft certification”) and “ms project” and “c#” and
+“sql server” and “asp.net” and “java” and (“mvc” or “big data” or scope or deliverables or timelines or budget or
+“use case” or design or deploy or supervise or manage)
+
+Senior PHP Developer
+(programmer or developer or engineer) and “php” and “sql” and lamp and linux and apache and “javascript” and
+(jquery or memcache or “apc cache” or nosql or “no sql” or “no-sql” or analytical or analysis)
+
+Boolean Searches for IT
+
+Senior Software Architect
+“c#” and “asp.net” and “sql server” and (java or j2ee or “jsp” or servlet or “ejb” or “jms”) and html and xml and
+“css” and oracle and (unix or linux) and (“app development” or “arch” or design or develop or hadoop or python
+or rails or “php” or websphere or tomcat or “big data” or spring or hibernate or eclipse or log4j or “ant” or
+maven or “ooad” or “uml” or mvc or “jsf” or velocity or struts)
+
+SharePoint Developer
+(“SharePoint Designer” or “SharePoint Developer”) and (html or css or xsl or xslt or javascript or jquery or ajax)
+and .net and (asp.net or C# or vb.net) and (Silverlight or “SQL Server” or SSRS or SSAS or “reporting services”
+or “analysis services”)
+
+SQL Data Analyst
+(“dba” or “data analyst” or “database administrator”) and “sql server” and (“transact-sql” or “t-sql” or “tsql”)
+and (“stored procedures” or “ssis” or “ssas” or “ssrs” or analy or “data conversion” or query or queries or “data
+mining” or excel or pivot or vlookup or “v-lookup” or chart or graph or “ms office” or audit)
+
+SQL Data & Quality Assurance Analyst
+(“dba” or “data analyst” or “database administrator” or “qa” or “quality assurance” or “quality analyst”) and “sql
+server” and (“transact-sql” or “t-sql” or “tsql”) and (“stored procedures” or “ssis” or “ssas” or “ssrs” or test or analy
+or “data conversion” or queries or query or “data mining” or excel or pivot or vlookup or “v-lookup” or chart or
+graph or “ms office” or audit)
+
+Sr. Data Warehouse Architect & Developer
+(architect or develop* or program* or engineer) and “sql server” and “data warehousing” and perl and
+(microstrategy or profiler or “data hygiene” or “etl” or computations or aggregations or analy* or quer* or index
+or design or deploy or test)
+
+Sr. Linux Administrator
+(“dba” or “database administrator” or “linux administrator”) and linux and apache and (redhat or fedora or
+centos) and vmware and (tomcat or mysql or “my sql” or “my-sql” or postgre or zimbra or “ssh” or “nfs” or
+“bind” or djbdns or qmail or openldap or openssl or “lvs” or perl or python or ruby or bash or firewall)
+
+Sr. Programmer – C++, Linux
+(programmer or engineer or developer) and (linux or unix) and (redhat or centos or fedora) and (“c” or “c++”)
+and sql and (perl or “php” or shell) and (postgre or analy or test or design or deploy or execute)
+
+Systems Engineer
+Windows and Exchange and Cisco and switch* and rout* and IIS and (Voip or Citrix or AIX or Linux or MCSE
+or CCNA or CCNP or CNNA or “Systems Engineer”) and TCP/IP and “Active Directory” and DNS
+
+Technical Account Manager
+(“account manager” or “project manager” or “program manager”) and software and develop* and “sql server”
+and “data warehousing” and technical and marketing
+
+Boolean Searches for IT
+
+Telecommunications Specialist
+(Telecommunications or Telecom) and (network or networking) and IP and telephony and PBX and (voicemail
+or voice-mail or “voice mail”) and Cisco and Avaya
+
+User Experience Designer
+(“User Experience” or User-Experience or UX or “Human-Computer Interaction” or “Human Computer
+Interaction” or HCI) and CSS and HTML and JavaScript and (jQuery or user-centered or “graphic design” or
+“visual design”)
+
+Web Designer
+html and javascript and css and (photoshop or illustrator or adobe) and (flash or actionscript or macromedia)
+and (“Java Server Pages” or JSP or Java or “Active Server Pages” or ASP or “Google Web Toolkit” or XML or
+Oracle or IIS) and SQL
+
+Web Developer
+(html or html5) and (css3 or css) and javascript and (“Web Developer” or “Web Design” or xml or jquery or ajax)
+
+AND SEARCHES
+AND searches require that all of the terms you have listed are found in your results. AND narrows or decreases results.
+The result would be everything in the green area: the solutions that contain both blue and yellow.
+For example: design and html — The results would be everyone who had “design” as well as “html” listed somewhere in
+their resume.
+
+AND
+Boolean 101. Here’s your quick guide to understanding the basics of Boolean.
+
+OR SEARCHES
+OR searches require that your results contain any one of the terms being searched. The OR operator can be used to
+broaden or increase your results.
+In this case, the result would be everything in the blue, yellow, or green area: the solutions that are either blue or yellow!
+For example: mechanic or diesel — The results would be everyone who had either “mechanic” or “diesel” listed
+somewhere in their resume.
+
+OR
+
+NOT SEARCHES
+NOT (or AND NOT) Searches — NOT (or AND NOT) searches mean that a term or terms can be excluded from your results.
+In this case, the result would be everything in the blue area only — nothing that contains any yellow!
+For example: pharmaceutical and not sales
+The results would be everyone who had “pharmaceutical” in their resume, but would automatically exclude everyone
+who had “sales.”
